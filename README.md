@@ -1,2 +1,2 @@
 # traffic-sign-classifier
-Build a traffic sign recognition classifier using neural networks
+Use deep neural networks and convolutional neural networks to classify traffic signs
