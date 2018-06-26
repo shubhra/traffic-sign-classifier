@@ -49,7 +49,7 @@ layers with relu activations and a dropout added after each layer.
 At the end we then have a fully connected output layer that the the output equal to the
 number of classes in our dataset (43)
 
-This table better explains the whole architecture
+This table better depicts the whole architecture
 
 | Layer  | Description |
 | ------------- | ------------- |
